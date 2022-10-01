@@ -17,9 +17,10 @@ The Results:
 
     For the function lg(3x) + x - 2:
 
-    ![image](https://user-images.githubusercontent.com/93685325/193425251-03fedfed-8d4b-48b6-b245-80dbea634500.png)
+    ![image](https://user-images.githubusercontent.com/93685325/193425336-eeaade97-75b9-49f9-9f3e-8b4c3fcdf4d1.png)
+
 
 
     For the function x^3 - 25x + 2:
     
-    ![image](https://user-images.githubusercontent.com/93685325/193425273-d382e7e8-1ad9-49b1-b5a1-9ee470de19bb.png)
+    ![image](https://user-images.githubusercontent.com/93685325/193425339-dd8af645-09d3-480d-ac2d-03f8febb42f6.png)
